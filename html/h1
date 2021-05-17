@@ -1,0 +1,47 @@
+
+<!DOCTYPE html>
+
+<html>
+<head>
+<title> Energía potencial</title>
+<meta charset = 'utf-8'>
+<link rel='stylesheet' type='text/css' href='../css/estilos.css'>
+</head>
+ 
+ <body bg color = 'white'>
+
+<h1 style = 'text-align:center;'> Energía potencial </h1>
+ <p  style = 'text-align:center;'> <img src = '../figuras/AAA2.png' witdh = '400' height = '400' ></p>
+   
+   <h2 style = 'text-align:center;'> Descripción  </h2>
+   
+   <p>  </p>
+   
+    <h2 style = 'text-align:center;'>  Cámaras traseras </h2>
+  
+   <p  style = 'text-align:center;'> <img src = '../figuras/AAA3.png' witdh = '400' height = '400' ></p>
+   <p> En el iPhone 8 Plus contamos con una cámara principal –o trasera- con una resolución de 12 MP. 
+    La cámara principal tiene Flash True Tone con cuatro LED. Es capaz de grabar vídeo UHD 4K MP. Además, 
+    contamos también con cámara frontal o secundaria , que tiene una resolución de 7 MP. </p>
+ 
+
+
+  
+<table class='center' border=1>
+ 
+  <tr>
+ 
+ <td>  <p> <a href =  '../index.html'   >Ir a Inicio      </p><p> <img src = '../figuras/AAA1.jpg' width = '120' height = '100'>  </a>     </td></p> 
+ <td>  <p> <a href = 'iphonex.html' >iPhone X         </p><p> <img src = '../figuras/AAA4.jpg' width = '100' height = '100'> </a>     </td></p>
+ <td>  <p> <a href =  'iphonexr.html'    >Ir a iPhone XR    </p><p> <img src = '../figuras/AAA5.png' width = '100' height = '100'>  </a>     </td></p>
+
+</tr>
+
+
+  </table>
+
+
+
+
+
+</html>
